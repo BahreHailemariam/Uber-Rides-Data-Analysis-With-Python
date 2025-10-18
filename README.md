@@ -130,4 +130,10 @@ jupyter notebook notebooks/uber_analysis.ipynb
 ## 🧭 Future Enhancements  
 - Real-time data streaming with Kafka  
 - Predictive model integration with Flask/FastAPI  
-- Automated daily Power BI refresh  
+- Automated daily Power BI refresh
+
+## 👤 Author
+
+**Bahre Hailemariam**\
+📍 *Data Analyst & BI Developer \| 4+ Years Experience*\
+🔗 [LinkedIn](#) \| [Portfolio](#) \| [GitHub](#)
