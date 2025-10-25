@@ -133,7 +133,6 @@ jupyter notebook notebooks/uber_analysis.ipynb
 - Automated daily Power BI refresh
 
 ## 👤 Author
-
-**Bahre Hailemariam**\
-📍 *Data Analyst & BI Developer \| 4+ Years Experience*\
-🔗 [LinkedIn](#) \| [Portfolio](#) \| [GitHub](#)
+**Bahre Hailemariam**  
+📍 _Data Analyst & BI Developer_  
+📩 [Email Adress](bahre.hail@gmail.com) | 🌐[Portfolio](https://bahre-hailemariam-data-analyst.crd.co/) |💼[LinkedIn](https://www.linkedin.com/in/bahre-hailemariam/) | 📊[GitHub](https://github.com/BahreHailemariam)
